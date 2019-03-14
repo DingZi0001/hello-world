@@ -1,5 +1,5 @@
 # hello-world
-Just first repository
+Just first repository.
 Hello everyone!
 
 I am a student. I like code.
