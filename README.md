@@ -2,4 +2,4 @@
 Just first repository.
 Hello everyone!
 
-I am a student. I like code.
+I am learning how to write code.
